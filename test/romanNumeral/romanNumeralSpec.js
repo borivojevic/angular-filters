@@ -1,6 +1,6 @@
 'use strict';
 
-describe('Converting arabic numbers to roma numerals', function() {
+describe('Converting arabic numbers to roman numerals', function() {
   var romanNumeralFilter;
 
   beforeEach(module('borivojevic.filters'));

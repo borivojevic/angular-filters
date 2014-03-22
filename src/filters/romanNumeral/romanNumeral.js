@@ -1,4 +1,4 @@
-angular.module('borivojevic.filters', []).
+angular.module('borivojevic.filters').
   filter('romanNumeral', function() {
     return function(number) {
       var result = '';
